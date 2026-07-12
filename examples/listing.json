@@ -1,0 +1,26 @@
+{
+  "sku": "WIDGET-001",
+  "title": "Acme Widget - Blue, Model 42",
+  "description": "Brand new Acme Widget, model 42, in blue. Ships same day.",
+  "condition": "NEW",
+  "category_id": "12345",
+  "quantity": 10,
+  "image_urls": [
+    "https://example.com/images/widget-001-front.jpg",
+    "https://example.com/images/widget-001-back.jpg"
+  ],
+  "aspects": {
+    "Brand": ["Acme"],
+    "Color": ["Blue"],
+    "Model": ["42"]
+  },
+  "price": {
+    "value": "19.99",
+    "currency": "USD"
+  },
+  "listing_policies": {
+    "fulfillmentPolicyId": "REPLACE_WITH_YOUR_FULFILLMENT_POLICY_ID",
+    "paymentPolicyId": "REPLACE_WITH_YOUR_PAYMENT_POLICY_ID",
+    "returnPolicyId": "REPLACE_WITH_YOUR_RETURN_POLICY_ID"
+  }
+}
