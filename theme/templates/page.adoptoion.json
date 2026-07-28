@@ -1,0 +1,85 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_UYrW3D": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7eP8Kb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Become a Foster</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_hRd38H": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>When you become a Lucky Penny Kitties foster, you're doing so much more than opening your home—you’re giving an animal a second chance at life.</strong> Whether you're caring for a tiny bottle baby, a frightened stray, a recovering medical case, or a senior cat searching for comfort, your kindness provides the love, safety, and stability they need to heal. Every foster home becomes the bridge between rescue and a forever family. Because of compassionate people like you, countless animals experience hope, healing, and the opportunity to begin again. Together, we're not just saving lives—we're building a more compassionate community, one animal at a time.</p><h2><strong>How to Become a Foster</strong></h2><p>Getting started is easy! Simply complete our <strong>Foster Application</strong>, and a member of the Lucky Penny Kitties team will review your application and contact you within <strong>24–48 hours</strong>.</p><p>As part of our approval process, <strong>all foster applicants are required to complete a home inspection</strong> before a cat or kitten is placed in their care. This helps us ensure every animal is entering a safe, secure, and loving environment where they can thrive.</p><p>Once approved, we'll work with you to find a foster cat or kitten that best matches your home, experience, and comfort level. Whether you can foster for a few weeks or several months, every foster home makes a life-saving difference.</p><p><strong>By opening your home, you're opening the door to hope, healing, and a brighter future for an animal in need. Thank you for becoming part of the Lucky Penny Kitties family.</strong> ❤️🐾</p>",
+            "text_style": "body"
+          }
+        },
+        "button_AADceh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply to Foster",
+            "button_link": "https://forms.gle/t5GYpRueezfhwivv6",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7eP8Kb",
+        "text_hRd38H",
+        "button_AADceh"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/14798.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_UYrW3D",
+    "form"
+  ]
+}

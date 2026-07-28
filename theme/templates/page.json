@@ -1,0 +1,481 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 4
+      }
+    },
+    "rich_text_xbEXd7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_APYc9H": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Are you ready to adopt?</strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_h7WDKK": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Every kitty in our care is looking for more than just a home—they're looking for their forever family.</strong> Each of our cats and kittens has been rescued, cared for, and prepared for the next chapter of their lives. Now, they're ready to find the people who will love them for a lifetime.</p><p>If you're interested in adopting, please complete an adoption application before contacting us. Once we receive your application, a member of our team will review it and reach out to you within <strong>24–48 hours</strong>.</p><p>Please keep in mind that <strong>Lucky Penny Kitties is a foster-based rescue</strong>, not a traditional shelter. Our cats live in loving foster homes throughout the community, so they may not be available to go home the same day. We appreciate your patience as we work with our fosters to schedule meet-and-greets and ensure the best possible match for both you and your new furry family member.</p><p><strong>Thank you for choosing adoption and giving a rescue cat the second chance they deserve.</strong> 🩷🐾</p>"
+          }
+        },
+        "button_yVHpcY": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_APYc9H",
+        "text_h7WDKK",
+        "button_yVHpcY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_BfjMR4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_D8aGYN": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AzPDkq": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ePCd6b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_D8aGYN",
+        "column_AzPDkq",
+        "column_ePCd6b"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Adoption Application <3",
+        "button_link": "https://forms.gle/SXmGV9RfMMXknniC9",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_MVPpFb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QDfxYL": {
+          "type": "heading",
+          "settings": {
+            "heading": "APPLY TODAY!",
+            "heading_size": "h1"
+          }
+        },
+        "button_LhQcdE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Adoption Application!",
+            "button_link": "https://forms.gle/SXmGV9RfMMXknniC9",
+            "button_style_secondary": false
+          }
+        },
+        "text_FxW7zD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Click the link ^ to apply for your happily fur-ever to begin with any of our sweethearts below!!</p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QDfxYL",
+        "button_LhQcdE",
+        "text_FxW7zD"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/20260426_122714_2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_z7NaMa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_9w4tjg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FB_IMG_1778217399107.jpg",
+            "title": "Nessie",
+            "text": "<p>Miss Nessie has been through so much but she has truly blossomed and become her own! She is a sweetheart that takes some patience and time to warm up to you, but when she does, it is worth the wait! She is good with small dogs and possibly another kitty, but will also take a bit of time. She is so beautiful and such a great girl! She is 8 years old and does need a daily suppliment to help keep her digestive system working properly, we also have her on a special wet food once or twice a day on top of normal kibble to help with that. She has been through a lot and has trauma and we believe ptsd and definately anxiety, but she is thriving now!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9rgLjr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_20260418_110740.jpg",
+            "title": "Little Muffin",
+            "text": "<p>12 months old, sweetest most gentle boy after he warms up. Needs a calm environment. Neutered and up to date on vaccines.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zi9JfQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11942.jpg",
+            "title": "Maple",
+            "text": "<p>11 month old shy girl starting to come out of her shell. She is playful but timid.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Rb3fde": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11945.jpg",
+            "title": "Sandy 🩷",
+            "text": "<p>Super sweet, great with dogs and kids, loves affection, 11 month old spayed and fully vetted female</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HdhCAV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11946.jpg",
+            "title": "Boba",
+            "text": "<p>4 years old</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yHtqki": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11947.jpg",
+            "title": "Big Boy 🩵",
+            "text": "<p>5 years old </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JiVfiw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/14520.jpg",
+            "title": "Ellie and Rya",
+            "text": "<p>Sweet mother and daughter. Approximately 1-2 years old and 10 months. Both spayed and fully vaccinated. Shy at first but so, so sweet and just love people! Mama doesn't get along with other kitties, just her daughter (most of the time lol). They would do well together or separately. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QJPHA6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11944.jpg",
+            "title": "Ellie 🩷",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_b9hRye": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11943.jpg",
+            "title": "Rya 🩷",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_89DUMb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mama_Willow.jpg",
+            "title": "Willow",
+            "text": "<p>Willow came to us as a pregnant stray. She is very sweet and affectionate and loves to cuddle and make air buscuits. She is 3 years old. She’s a gentle, loving cat who is ready to find a safe and caring home. She will be fostered until she is done nursing and can be safely spayed.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PDqeK9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/710756248_122247652694136737_8085784828540067262_n.jpg",
+            "title": "Bobby - 🩷 Mama to 4 ⬆️ Siblings",
+            "text": "<p>young, unsure of age, will get spayed when kittens are done nursing.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8tYfha": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Our Kittens</strong>",
+            "text": "<p>These babies will be ready for their furever homes when they hit 8 weeks &lt;3</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nr6RMn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/14437.jpg",
+            "title": "Chance",
+            "text": "<p>10 weeks old, this sweet boy was found at 4 weeks old nursing on his deceased mother after he and she had been trapped in a garage 💔 </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bnWb7h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000045009.jpg",
+            "title": "Fitz",
+            "text": "<p>3 month old male</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Pmn9DV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000044954.jpg",
+            "title": "Fred & George",
+            "text": "<p>3 month old males (don't have to be adopted together) </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eGBYzi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000044863.jpg",
+            "title": "Star",
+            "text": "<p>3 month old female</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gQyByi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000044860.jpg",
+            "title": "Teddy",
+            "text": "<p>3 month old male</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_66hjEM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000045442.jpg",
+            "title": "Sam & Jack 🩵",
+            "text": "<p>10 week old males (don't have to be adopted together) </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zamLBT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000045934.jpg",
+            "title": "Beau & Chandler",
+            "text": "<p>9 week old Males (don't have to be adopted together)</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jmDb6J": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000045931.jpg",
+            "title": "Angel",
+            "text": "<p>9 week old female</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dtiTt7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/1000045932.jpg",
+            "title": "Asher",
+            "text": "<p>7 week old male</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_9w4tjg",
+        "column_9rgLjr",
+        "column_zi9JfQ",
+        "column_Rb3fde",
+        "column_HdhCAV",
+        "column_yHtqki",
+        "column_JiVfiw",
+        "column_QJPHA6",
+        "column_b9hRye",
+        "column_89DUMb",
+        "column_PDqeK9",
+        "column_8tYfha",
+        "column_nr6RMn",
+        "column_bnWb7h",
+        "column_Pmn9DV",
+        "column_eGBYzi",
+        "column_gQyByi",
+        "column_66hjEM",
+        "column_zamLBT",
+        "column_jmDb6J",
+        "column_dtiTt7"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Donate to with expenses",
+        "button_link": "https://Www.venmo.com/luckypennykitties",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_EEgmdY": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_reV8nj": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_qDEkm8": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_hh4bLB": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Apply to Adopt",
+            "button_link_1": "https://forms.gle/SXmGV9RfMMXknniC9",
+            "button_style_secondary_1": false,
+            "button_label_2": "Apply to Foster",
+            "button_link_2": "https://forms.gle/uS3foK4HkpnNohzQ7",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_reV8nj",
+        "text_qDEkm8",
+        "buttons_hh4bLB"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/20251220_211000_2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_xbEXd7",
+    "multicolumn_BfjMR4",
+    "image_with_text_MVPpFb",
+    "multicolumn_z7NaMa",
+    "image_banner_EEgmdY"
+  ]
+}

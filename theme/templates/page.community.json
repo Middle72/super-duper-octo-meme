@@ -1,0 +1,514 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 4
+      }
+    },
+    "image_with_text_6pAHqB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VXXHgk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Amosson Chiropractic",
+            "heading_size": "h1"
+          }
+        },
+        "text_bmG4LW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Welcome to Amosson Chiropractic where we take a complete approach to your healthcare in order to pave the way to a healthier you.  Our friendly staff strives to provide all of our patients with quality cost effective care. We can treat every member of your family- infants, children, teenagers, adults, moms-to-be, and seniors too! Individual treatment plans are developed for each person to suit their specific needs. </p><p>Our services encompass safe and effective spinal adjustments, acupuncture, physiotherapy, massage therapy with LMT Sandi Anderson, nutritional supplements, custom orthotics, wellness care, lifestyle advice, corrective exercises, and cutting-edge Zerona Z6 non-invasive cold laser for fat loss. </p><p>Call Amosson Chiropractic today and begin your journey to a life of balance, wellness, and improved overall health.</p><p>Serving the Cedar Valley since 1998!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_DV7y9h": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click here to visit their page!",
+            "button_link": "https://share.google/0KlOfyRsMDbYU0BT8",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_VXXHgk",
+        "text_bmG4LW",
+        "button_DV7y9h"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000106596.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_PxLkTe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XWrYUw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Paws on Your Heart Per Rescue Support",
+            "heading_size": "h1"
+          }
+        },
+        "text_b7j9F8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This beautiful group was LPK's \"yes\" to our many applied for grants! They believe in us and give more than just the monetary support, they are a community of cheerleaders, a network for help and guidance, a listening ear if we ever need it and have so many more opportunities to share than just this one \"yes\"! They are truly a miracle to any rescue who knows them! </p>",
+            "text_style": "body"
+          }
+        },
+        "button_MHrDBr": {
+          "type": "button",
+          "settings": {
+            "button_label": "Check them out here!",
+            "button_link": "https://www.facebook.com/share/1KKZMki9TD/",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_XWrYUw",
+        "text_b7j9F8",
+        "button_MHrDBr"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000132656.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_tred7f": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kiyphL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dr. Elsey's",
+            "heading_size": "h1"
+          }
+        },
+        "text_LrK7rx": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_XhU7Bg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Check them out here!",
+            "button_link": "https://drelseysonline.com",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_kiyphL",
+        "text_LrK7rx",
+        "button_XhU7Bg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/3448.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_pcCj7W": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3i6g6V": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_VUgapP": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_KFiYjc": {
+          "type": "button",
+          "settings": {
+            "button_label": "check them out here!",
+            "button_link": "https://share.google/behHWJRcK8VlUSrJW",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_3i6g6V",
+        "text_VUgapP",
+        "button_KFiYjc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000111765.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "image_with_text_HdyHEz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_U4Ui3E": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_XrAQrA": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_8J3hHy": {
+          "type": "button",
+          "settings": {
+            "button_label": "check them out here!",
+            "button_link": "https://therapetmd.com/collections/cat",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_U4Ui3E",
+        "text_XrAQrA",
+        "button_8J3hHy"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/3454.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_tmwmet": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aeyE7a": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_9KLzdD": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_kqpNjW": {
+          "type": "button",
+          "settings": {
+            "button_label": "check them out here!",
+            "button_link": "https://share.google/GrNzGIAP9lXg0mvga",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_aeyE7a",
+        "text_9KLzdD",
+        "button_kqpNjW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000106598.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_F7agB6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RYBnrc": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_4bpVic": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_xGWfTg": {
+          "type": "button",
+          "settings": {
+            "button_label": "check them out here!",
+            "button_link": "https://share.google/54ccLjNFfVp9tbVdO",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_RYBnrc",
+        "text_4bpVic",
+        "button_xGWfTg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000106599.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_r3h6Eq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yyJmQN": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_hknDWM": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_HQpwg9": {
+          "type": "button",
+          "settings": {
+            "button_label": "check them out here!",
+            "button_link": "https://share.google/hNLhypK5bO7bUKdpc",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_yyJmQN",
+        "text_hknDWM",
+        "button_HQpwg9"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000106597.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_7QhmcT": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xgAGYq": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_EfP93k": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_YEF8Af": {
+          "type": "button",
+          "settings": {
+            "button_label": "check them out here!",
+            "button_link": "https://share.google/cHqLyjpCN6eySIV2t",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_xgAGYq",
+        "text_EfP93k",
+        "button_YEF8Af"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/484491837_963464729315234_3377703343281760316_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_8Qwf3P": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yTViB7": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_PQCqMW": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_tynCa9": {
+          "type": "button",
+          "settings": {
+            "button_label": "check them out here!",
+            "button_link": "https://www.rootpretty.com/?srsltid=AfmBOooxgjdomhVCrf8yxN7iX0woji31Vm-b6OJGvHXtqUtEZzc2K6wE",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_yTViB7",
+        "text_PQCqMW",
+        "button_tynCa9"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/root.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_6pAHqB",
+    "image_with_text_PxLkTe",
+    "image_with_text_tred7f",
+    "image_with_text_pcCj7W",
+    "image_with_text_HdyHEz",
+    "image_with_text_tmwmet",
+    "image_with_text_F7agB6",
+    "image_with_text_r3h6Eq",
+    "image_with_text_7QhmcT",
+    "image_with_text_8Qwf3P"
+  ]
+}

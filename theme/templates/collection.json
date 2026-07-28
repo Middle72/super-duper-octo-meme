@@ -1,0 +1,111 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "rich_text_7mrALd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VA4GnU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Our Mission</strong>",
+            "heading_size": "hxl"
+          }
+        },
+        "text_yHEyiK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At <strong>Lucky Penny Kitties</strong>, our mission is to rescue, rehabilitate, and advocate for cats and kittens in need by providing compassionate, foster-based care and helping them find loving forever homes. As a no-kill rescue, we believe every animal deserves a second chance, regardless of age, medical needs, or circumstance.</p><p>Driven by compassion and supported by our incredible community, we are working toward an even greater vision: establishing <strong>Bremer County's first full-service humane society</strong>. Our goal is to create a safe, welcoming place where animals receive the care they deserve and families can find the resources and support they need. We envision a future where no animal is left without hope and no family has to face difficult situations alone.</p><p>Every rescue, every adoption, every foster home, and every act of kindness brings us one step closer to making that vision a reality.</p><h2><strong>Help Us Build the Future</strong></h2><p>Building a humane society is a community effort, and we can't do it without your support.</p><p>Whether you choose to make a monetary donation, contribute land, building materials, supplies, professional services, or volunteer your time, every gift helps us move closer to creating a permanent home for animals in need throughout Bremer County.</p><p>If you would like to partner with us, donate, or learn more about how you can make a difference, we'd love to hear from you.</p><h3>Contact Us</h3><p><strong>Email</strong></p><ul><li><a href=\"mailto:meow@luckypennykitties.org\" title=\"mailto:meow@luckypennykitties.org\"><strong>meow@luckypennykitties.org</strong><br/></a></li><li><a href=\"mailto:dzeneta@luckypennykitties.org\" title=\"mailto:dzeneta@luckypennykitties.org\"><strong>dzeneta@luckypennykitties.org</strong></a><br/></li></ul><p><strong>Call or Text</strong><br/><br/><strong>(319) 559-4889</strong></p><p><strong>Together, we're building more than a rescue—we're building a future where every animal has a safe place to land, every family has access to compassionate resources, and every life is valued.</strong> ❤️🐾</p>"
+          }
+        },
+        "button_TU8hyn": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "mailto:meow@luckypennykitties.org",
+            "button_style_secondary": false,
+            "button_label_2": "No fee donation with Zeffy",
+            "button_link_2": "https://www.zeffy.com/en-US/donation-form/project-lpk-expansion",
+            "button_style_secondary_2": false
+          }
+        },
+        "button_yWrTRt": {
+          "type": "button",
+          "settings": {
+            "button_label": "Paypal",
+            "button_link": "https://www.paypal.com/ncp/payment/4Z3UYSJLHHBBN",
+            "button_style_secondary": false,
+            "button_label_2": "Giving Grid",
+            "button_link_2": "https://www.givinggrid.com/bzaxvc/",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_RN3CqJ": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>div</p><p>    data-pp-amount=$100</p><p>    data-pp-style-layout=\"text\"</p><p>    data-pp-style-logo-type=\"inline\"</p><p>    data-pp-style-text-color=\"black\"</p><p>    data-pp-amount=\"ENTER_VALUE_HERE\"</p><p>    data-pp-language=\"\"&gt;</p><p>&lt;/div&gt;</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VA4GnU",
+        "text_yHEyiK",
+        "button_TU8hyn",
+        "button_yWrTRt",
+        "text_RN3CqJ"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "rich_text_7mrALd",
+    "product-grid"
+  ]
+}

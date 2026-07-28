@@ -1,0 +1,773 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_CBtAwP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yQNYar": {
+          "type": "heading",
+          "settings": {
+            "heading": "We love our Community!",
+            "heading_size": "h0"
+          }
+        },
+        "text_ggkepp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Community involvement is at the heart of <em><strong>everything</strong></em> we do. We are proud to work alongside local businesses, schools, organizations, and individuals who support our mission through volunteering, fundraising, education, and outreach.</p><p><strong>Together</strong>, we create a stronger, more compassionate community while giving cats and kittens the care, love, and second chances they deserve. Whether you donate, foster, volunteer, attend events, or simply share our story, <em>your involvement truly makes a difference</em> 🩷🐾</p>"
+          }
+        },
+        "button_9A4YWE": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yQNYar",
+        "text_ggkepp",
+        "button_9A4YWE"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 68
+      }
+    },
+    "multirow_tW7RaL": {
+      "type": "multirow",
+      "blocks": {
+        "row_rg6zaF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Business_Suite_creation_789250773673752_2.jpg",
+            "caption": "Waverly",
+            "heading": "Redeemer Lutheran Church",
+            "text": "<p>The kids of RLC put on a bake sale fundraiser for us!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_hw68kX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/20251102_135811_2.jpg",
+            "caption": "Waverly",
+            "heading": "Girl Scouts",
+            "text": "<p>We spoke to and engaged with an amazing group of girls in this Girl Scout Troop. They are all shining stars and have bright futures with big, caring hearts!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_z36R7J": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1000049250.jpg",
+            "caption": "Helping where we are needed",
+            "heading": "Cleaning a Hoarder Home",
+            "text": "<p>This senior couple had a lot of cats, sadly most of them in small kennels, and their whole home had become a hoarder home. We rescued 37 cats from the home but then went back and cleaned and brought in new furnishings to replace the old, soiled ones so that they could live a sanitary, safe and comfortable life.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_xKKVNU": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1000111771.jpg",
+            "caption": "Waverly",
+            "heading": "HyVee",
+            "text": "<p>HyVee Floral put on a month long fundraiser for us! </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_cpkLJE": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AirBrush_20250708121346.jpg",
+            "caption": "Waverly",
+            "heading": "Ivy Ink",
+            "text": "<p>Ivy Ink Tattoos had TWO flash sale tattoo fundraising events for us! One in July and one in August!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_NnXhhm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AirBrush_20250904163905.jpg",
+            "caption": "Waterloo",
+            "heading": "Hydrite",
+            "text": "<p>Hydrite Helps collected donations of goods for us!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_hDccaj": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1000113058.jpg",
+            "caption": "Waterloo",
+            "heading": "Hydrite",
+            "text": "<p>Hydrite Helps has donated monetarily, in kind and with volunteer work. We are so grateful for their partnership!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_D3Ejqz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1000113060.jpg",
+            "caption": "Waterloo",
+            "heading": "Hydrite Helps",
+            "text": "<p>We were presented with this wonderful and meaningful certificate of appreciation ❤️ </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_rg6zaF",
+        "row_hw68kX",
+        "row_z36R7J",
+        "row_xKKVNU",
+        "row_cpkLJE",
+        "row_NnXhhm",
+        "row_hDccaj",
+        "row_D3Ejqz"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 8,
+        "padding_bottom": 76
+      }
+    },
+    "image_with_text_Lfw3QF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_JB8ncm": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>First Annual Cy-Hawk tailgate party</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_aEEwgy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lucky the Cat, our fun mascot, proudly displaying one of our yard signs! </p>",
+            "text_style": "body"
+          }
+        },
+        "button_BgEWgn": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JB8ncm",
+        "text_aEEwgy",
+        "button_BgEWgn"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000109913.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_6LnBLz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aWVzLc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20250906_113431_2.jpg",
+            "title": "",
+            "text": "<p>Good food, outdoor game viewing and fun to be had!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Tdx4cP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20250906_113727_0_2.jpg",
+            "title": "",
+            "text": "<p>1st Annual Bags tournament </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CgNwWD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20250906_113401_2.jpg",
+            "title": "",
+            "text": "<p>Indoor viewing, drinks, Raffles, silent auctions and even more fun!</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aWVzLc",
+        "column_Tdx4cP",
+        "column_CgNwWD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "rich_text_6nkxtg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JGMkR9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>LPK's Kick off to Summer Bash 2025</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_zdNEzg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our first annual, family fun in the park, fundraiser!</p>"
+          }
+        },
+        "button_8Y9Ltd": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JGMkR9",
+        "text_zdNEzg",
+        "button_8Y9Ltd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_ik77zW": {
+      "type": "multirow",
+      "blocks": {
+        "row_fEBiUp": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-227.jpg",
+            "caption": "",
+            "heading": "Kitten Love",
+            "text": "<p>Everyone loved all the kittens and gave them so many kitten snuggles! </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_CUfaVa": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-072.jpg",
+            "caption": "",
+            "heading": "Inflatable Skee-ball",
+            "text": "<p>Who can pass up Skee-ball, let alone INFLATABLE Skee-ball!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_VyxW6V": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-162.jpg",
+            "caption": "",
+            "heading": "Fun for all",
+            "text": "<p>Our volunteers made sure that everyone was attended to and had a smile on their face! </p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_AebyGa": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-51.jpg",
+            "caption": "",
+            "heading": "A day full of hugs",
+            "text": "<p>There was so much emotion from everyone! Hugs and compassion were free of charge that day!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_fEBiUp",
+        "row_CUfaVa",
+        "row_VyxW6V",
+        "row_AebyGa"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_MqeCjN": {
+      "type": "multirow",
+      "blocks": {
+        "row_UQCLic": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-336.jpg",
+            "caption": "",
+            "heading": "Amazing Vendors",
+            "text": "<p>Beautifully crafted and delicious vendor options were abundant!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_g49pxe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-205.jpg",
+            "caption": "",
+            "heading": "Kitties got adopted",
+            "text": "<p>Several kitties found their purfect furever homes!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_meAxff": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-081.jpg",
+            "caption": "",
+            "heading": "Games in the grass",
+            "text": "<p>Welcome summer! Lets play some giant Jenga, Checkers or Dice on the lawn! &lt;3</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_PnaJJ9": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/505360172_122205167522136737_2353832634822302908_n_1.jpg",
+            "caption": "",
+            "heading": "Lucky the Cat",
+            "text": "<p>Our mascot, Lucky the cat, posed on the red carpet for photos!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_xbFz8i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/504244814_122205167474136737_6528219010806053154_n.jpg",
+            "caption": "",
+            "heading": "Face painting",
+            "text": "<p>Face painting is always fun, no matter what your age!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_RzLXzF": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/502670884_122205167420136737_2768136529987443824_n_1.jpg",
+            "caption": "",
+            "heading": "An amazing photographer",
+            "text": "<p>Alexis Rose Photography out of Waverly volunteered her day to spend photographing and capturing the magic that happened! These are her photos being used, thank you Alexis!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_K6N76R": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/e14c4fc2-8b7f-411e-8cd9-8ee08b706a2a-1_all_206500.jpg",
+            "caption": "Honey Bear",
+            "heading": "Incredible community support",
+            "text": "<p>A wonderful couple made and donated this wheelchair for our special needs and special souled baby, Honey Bear.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_t97heD": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1000050460_f5194fa9-b55f-46e6-87d7-f10159c0d747.jpg",
+            "caption": "Briella",
+            "heading": "Sweet Volunteer, Briella",
+            "text": "<p>This wonderful young girl has been volunteering for LPK for over a year and takes things into her own hands when times are tough, like this time that she had a lemonade stand to help raise funds!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_yfjQFy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/462174816_122169736166136737_1019848746090827962_n.jpg",
+            "caption": "Launch",
+            "heading": "Nearly didn't make it",
+            "text": "<p>We take in kitties that others will not because they may think they are not worth fighting for. I will never feel that way! I will fight with everything I have to save as many as I can! Launch is a perfect example as he came to us with his 5 siblings covered in fleas and near death, but we cleaned them up and saved all 6!!!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_UQCLic",
+        "row_g49pxe",
+        "row_meAxff",
+        "row_PnaJJ9",
+        "row_xbFz8i",
+        "row_RzLXzF",
+        "row_K6N76R",
+        "row_t97heD",
+        "row_yfjQFy"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Wp3XFp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xanJxt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Support LPK by purchasing merchandise!",
+            "heading_size": "h1"
+          }
+        },
+        "text_FHQKzx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have several customizable and awesome products you can choose from to help LPK raise funds while also helping us get our name out for everyone to see and help raise awareness for our cause! Click the link below to support LPK!</p>"
+          }
+        },
+        "button_78Htd4": {
+          "type": "button",
+          "settings": {
+            "button_label": "LPK's Store",
+            "button_link": "https://lucky-penny-kitties-store.printify.me/",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xanJxt",
+        "text_FHQKzx",
+        "button_78Htd4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_WraQTU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_U347wa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our \"I SUPPORT Lucky Penny Kitties\" T-shirt!",
+            "heading_size": "h1"
+          }
+        },
+        "text_TyLEPR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Only $29.00!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_cikFYx": {
+          "type": "button",
+          "settings": {
+            "button_label": "See more here!",
+            "button_link": "https://lucky-penny-kitties.printify.me/product/20900546/i-support-lucky-penny-kitties-unisex-heavy-cotton-tee-cat-lover-apparel-gift-for-animal-rescue-cute-t-shirt-funny-kitty-shirt",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_U347wa",
+        "text_TyLEPR",
+        "button_cikFYx"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/i-support-lucky-penny-kitties-unisex-heavy-cotton-tee-cat-lover-apparel-gift-for-animal-rescue-cute-t-shirt-funny-kitty-shirt_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "collage_Jr8Md3": {
+      "type": "collage",
+      "blocks": {
+        "image_UD9yci": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-140.jpg"
+          }
+        },
+        "image_dtc7db": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/504096308_122205173258136737_1827994574743341961_n_200985cf-b3ce-47f8-9791-4755b2d0ca2f.jpg"
+          }
+        },
+        "image_PKYTC6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/504096308_122205173258136737_1827994574743341961_n_bbe61799-3fa2-41c6-bab0-adc87c89a4bb.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_UD9yci",
+        "image_dtc7db",
+        "image_PKYTC6"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "<em><strong>Big Steve, Little Steve!</strong></em>",
+        "heading_size": "h0",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "none",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multirow_hGWrmh": {
+      "type": "multirow",
+      "blocks": {
+        "row_bL8kb6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1000049250.jpg",
+            "caption": "Helping where we are needed",
+            "heading": "Cleaning a Hoarder Home",
+            "text": "<p>This senior couple had a lot of cats, sadly most of them in small kennels, and their whole home had become a hoarder home. We rescued 37 cats from the home but then went back and cleaned and brought in new furnishings to replace the old, soiled ones so that they could live a sanitary, safe and comfortable life.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_nPzxV6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1000081774.jpg",
+            "caption": "Age does not matter",
+            "heading": "We love them all",
+            "text": "<p>We love all ages, young and old!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_nRz6HT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/IMG_20250907_150145_2.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_CccqJb": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/AlexisRosePhotography-280.jpg",
+            "caption": "Amazing support",
+            "heading": "Our wonderful community",
+            "text": "<p>We have so much support behind what we are trying to do and what we are currently doing, it is very humbling! And we want those that support us to know and see just how much we appreciate them!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_yr8g7i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/FB_IMG_1715023569652.jpg",
+            "caption": "Waverly",
+            "heading": "Art Walk",
+            "text": "<p>Non Profits supporting other non profits! We were part of the annual Art Walk here in our town that helped support our Chamber of Commerce. It was a very fun day!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_bL8kb6",
+        "row_nPzxV6",
+        "row_nRz6HT",
+        "row_CccqJb",
+        "row_yr8g7i"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "rich_text_CBtAwP",
+    "multirow_tW7RaL",
+    "image_with_text_Lfw3QF",
+    "multicolumn_6LnBLz",
+    "rich_text_6nkxtg",
+    "multirow_ik77zW",
+    "multirow_MqeCjN",
+    "rich_text_Wp3XFp",
+    "image_with_text_WraQTU",
+    "collage_Jr8Md3",
+    "multirow_hGWrmh"
+  ]
+}

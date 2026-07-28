@@ -1,0 +1,280 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_c7FzCH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LXrcH9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_kbXtai": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LXrcH9",
+        "text_kbXtai"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<em>Delivering happiness through kindness and kitties.</em>",
+            "heading_size": "h1"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_2": "shopify://shop_images/1000132661.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "image_with_text_KAcPqq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aH8BbN": {
+          "type": "heading",
+          "settings": {
+            "heading": "As of November 15th, 2025 🥹",
+            "heading_size": "h1"
+          }
+        },
+        "text_dncMRt": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "button_eFHjTw": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aH8BbN",
+        "text_dncMRt",
+        "button_eFHjTw"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/1000118934.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_a3jiiQ": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div id=\"givinggrid-widget\" data-gid=\"411030\" data-wol=\"1\"></div><script src=\"https://www.givinggrid.com/g/gin.js\" type=\"text/javascript\"></script>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_Tnj6nF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_x7yxmJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lucky Penny Kitties is a 501(c)(3) nonprofit, foster-based cat rescue serving Waverly, Bremer County, and communities throughout Northeast Iowa. Founded with the belief that every animal deserves a second chance, we rescue abandoned, neglected, homeless, and at-risk cats and kittens, providing them with medical care, rehabilitation, and loving foster homes until they find their forever families.</strong></p><p><strong>As a no-kill rescue, we are committed to treating every animal with compassion, dignity, and respect while educating our community about responsible pet ownership, spaying and neutering, and animal welfare. Our dedicated team of volunteers, fosters, and supporters work tirelessly to give each cat the opportunity to live a healthy, happy life.</strong></p><p><strong>While our mission today focuses on saving cats, our vision reaches even further. We are working toward building Bremer County's first full-service humane society—a place where all animals can receive shelter, medical care, rehabilitation, and the opportunity to find loving homes. Through community partnerships, education, and compassion, we are building a future where every animal has a safe place to land and every family has access to the resources they need.</strong></p>"
+          }
+        },
+        "heading_TkBHhA": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "text_x7yxmJ",
+        "heading_TkBHhA"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_iqXQKC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UJgdHF": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Future We Are Building",
+            "heading_size": "h1"
+          }
+        },
+        "text_xXtVzK": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Our goal is to build a humane society in Bremer County dedicated to rescuing, rehabilitating, and rehoming animals while promoting responsible pet ownership and strengthening our community through compassion and education.</h2>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UJgdHF",
+        "text_xXtVzK"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_Jul_13_2026_12_37_58_PM.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 20
+      }
+    },
+    "slideshow_UYjrif": {
+      "type": "slideshow",
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "17840531944a5b5cc6": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_6e34af9_zTHwEf": {
+          "type": "ai_gen_block_6e34af9",
+          "settings": {
+            "image_1": "shopify://shop_images/14439.jpg",
+            "image_2": "shopify://shop_images/11934.jpg",
+            "image_3": "shopify://shop_images/20260426_122714_2.jpg",
+            "image_4": "shopify://shop_images/20260430_111154_2.jpg",
+            "image_5": "shopify://shop_images/1554.jpg",
+            "image_6": "shopify://shop_images/1000126684.jpg",
+            "columns_desktop": 3,
+            "columns_mobile": "2",
+            "gap": 4,
+            "desktop_width_percent": 100,
+            "aspect_ratio": "1 / 1",
+            "image_radius": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_6e34af9_zTHwEf"
+      ],
+      "settings": {}
+    },
+    "custom_liquid_eKdGDy": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "rich_text_c7FzCH",
+    "image_banner",
+    "image_with_text_KAcPqq",
+    "custom_liquid_a3jiiQ",
+    "rich_text_Tnj6nF",
+    "image_with_text_iqXQKC",
+    "slideshow_UYjrif",
+    "17840531944a5b5cc6",
+    "custom_liquid_eKdGDy"
+  ]
+}
