@@ -42,6 +42,16 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_donateNow01": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div style=\"text-align: center;\">\n  <a href=\"https://www.venmo.com/luckypennykitties\" target=\"_blank\" rel=\"noopener\" class=\"lpk-donate-btn\">Donate Now</a>\n</div>\n<style>\n  .lpk-donate-btn {\n    display: inline-block;\n    background-color: #ff4da6;\n    color: #ffffff;\n    font-weight: 700;\n    font-size: 1.15rem;\n    letter-spacing: 0.05em;\n    text-transform: uppercase;\n    text-decoration: none;\n    padding: 1rem 2.75rem;\n    border-radius: 999px;\n    box-shadow: 0 4px 14px rgba(255, 77, 166, 0.4);\n    transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;\n  }\n  .lpk-donate-btn:hover,\n  .lpk-donate-btn:focus {\n    background-color: #e6399a;\n    transform: translateY(-2px);\n    box-shadow: 0 6px 18px rgba(255, 77, 166, 0.5);\n    color: #ffffff;\n  }\n</style>",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -268,6 +278,7 @@
   },
   "order": [
     "rich_text_c7FzCH",
+    "custom_liquid_donateNow01",
     "image_banner",
     "image_with_text_KAcPqq",
     "custom_liquid_a3jiiQ",
