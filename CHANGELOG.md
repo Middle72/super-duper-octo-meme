@@ -22,3 +22,15 @@ Each entry: what changed, why, and which theme/resource it landed on.
 ### Started this change log
 - **What:** Created this file at the user's request to track future site changes with reasoning, starting from the volunteer form link change above.
 - **Why:** User wants a durable record of what's been changed and why, going forward.
+
+### Added clean short URL redirects for social posts
+- **What:** Created 7 URL redirects so the site's most-shared pages have short, clean addresses for posting online, instead of the default Shopify `/pages/<handle>` paths:
+  - `/donate` → `/pages/donate`
+  - `/volunteer` → `/pages/volunteer`
+  - `/foster` → `/pages/foster`
+  - `/events` → `/pages/upcoming-events`
+  - `/adopt` → `/pages/adoptable-lpk-kitties-🐾` (this page's real handle has an emoji in it, so the redirect is especially useful here)
+  - `/sponsors` → `/pages/our-incredible-sponsors`
+  - `/surrender` → `/pages/surrender`
+- **Why:** User explained they post these page addresses in social posts and want them as clean as possible. Shopify enforces `/pages/`, `/products/`, `/collections/`, etc. prefixes for all non-homepage content — there's no way to actually serve a Page at a bare root path like `/donate`. Redirects are the standard workaround: the short URL works when clicked/typed, though the browser's address bar will still show the longer real URL once it lands (this was called out to the user as a caveat).
+- **Where:** URL redirects are a store-level (not theme-level) resource, so this took effect immediately — no theme publish needed.
