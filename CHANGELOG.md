@@ -34,3 +34,12 @@ Each entry: what changed, why, and which theme/resource it landed on.
   - `/surrender` → `/pages/surrender`
 - **Why:** User explained they post these page addresses in social posts and want them as clean as possible. Shopify enforces `/pages/`, `/products/`, `/collections/`, etc. prefixes for all non-homepage content — there's no way to actually serve a Page at a bare root path like `/donate`. Redirects are the standard workaround: the short URL works when clicked/typed, though the browser's address bar will still show the longer real URL once it lands (this was called out to the user as a caveat).
 - **Where:** URL redirects are a store-level (not theme-level) resource, so this took effect immediately — no theme publish needed.
+
+### Built a dedicated "Contact Us" page (email-only, no phone)
+- **What:**
+  - Created a new **"Contact Us"** page (`/pages/contact`, plus a clean `/contact` redirect) with an intro explaining the org is volunteer-run with no staffed phone line, followed by Shopify's built-in contact form (Name, Email, Message).
+  - **Removed the phone number field** from the shared `sections/contact-form.liquid` theme section, since this section wasn't enabled/live on any existing page (confirmed by checking every template) — safe to edit without affecting anything else, and it wasn't being shown to visitors, so it was safe to edit for the sole page that now uses it.
+  - Added **"Contact Us"** to the main nav (live immediately — menus aren't theme-gated).
+  - Form submissions route through Shopify's native contact form handler, which emails the shop's contact address (`meow@luckypennykitties.org`) automatically — no additional app or integration required.
+- **Why:** User wants to move away from phone calls for inquiries and have people reach out by email/form instead.
+- **Where:** Page content/nav/redirect are live immediately (store-level resources). The actual page layout (intro + form) lives in a new template, `templates/page.contact-us.json`, on a new duplicate theme, **"Lucky Penny Pink Redo - Contact Us page"** — not yet published. Until it's published, `/pages/contact` will render as a blank/generic page rather than the intended form, since the live theme doesn't have this template.
